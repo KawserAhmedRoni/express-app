@@ -1,0 +1,36 @@
+1. Node init (npm init -y)
+
+2. npm install express (npm install express)
+
+3. install express packages
+   - yarn add cookie-parser (for working with cookies)
+   - yarn add cors
+   - yarn add express-rate-limit (bot attact)
+   - yarn add helmet (for security)
+   - yarn add hpp (for security - for preventing http param pollution)
+   - yarn add jsonwebtoken (for working with jwt)
+   - yarn add mongoose (for working with mongodb)
+   - yarn add nodemailer (for working with email)
+   - yarn add nodemon (for working with nodemon)
+
+4. File Folder Structure    
+   - config 
+   - controllers
+   - middlewares
+   - models
+   - utility
+
+   - routes
+   - storage
+
+5. app.js
+   - import aplications all packages
+   - global middlewares
+   - rate limiter   
+   - web caching    
+   - mongodb connection 
+   - set api routes
+   - set aplications storage
+   - run your express backend project
+
+6. Set Debugger
