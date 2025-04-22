@@ -14,13 +14,14 @@
    - yarn add nodemon (for working with nodemon)
 
 4. File Folder Structure    
-   - config 
-   - controllers
+   - config (settings related all constants)
+   - controllers (all req and res)
    - middlewares
    - models
-   - utility
+   - utility (project small features)
 
-   - routes
+   - routes (all api routes only one file api.js) 
+      
    - storage
 
 5. app.js
