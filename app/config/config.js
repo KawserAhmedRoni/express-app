@@ -3,7 +3,7 @@ export const JWT_SECRET = "HASDGLA54AS6DHSD1A6SD4H1AAHSD432";
 export const JWT_EXPIRATION = 60 * 60 * 24 * 30;
 
 export const EMAIL_HOST = "";
-export const EMAIL_PORT = "";
+export const EMAIL_PORT = "5050";
 export const EMAIL_USER = "";
 export const EMAIL_PASSWORD = "";
 
